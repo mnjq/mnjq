@@ -1,7 +1,7 @@
 ### Mnjq
-'''
+```
 Hi there! I make games :)
-'''
+```
 
 | **My Stats** | **My Top Langauages** |
 |:-----:|:-----:|
