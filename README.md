@@ -1,4 +1,4 @@
-### Mnjq
+### My Github
 ```
 Hi there! I make games :)
 ```
